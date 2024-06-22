@@ -1,3 +1,3 @@
 # Investments Vault
-* A simple insight to my personal investment ideas.
+* A simple insight into my personal investment ideas.
 ---
